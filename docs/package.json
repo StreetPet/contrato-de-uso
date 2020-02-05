@@ -1,0 +1,22 @@
+{
+  "name": "streetpet-contrato-de-uso",
+  "version": "0.0.1",
+  "description": "Contrato de Uso dos Serviços e Softwares StreetPet e PetFriendly",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StreetPet/contrato-de-uso.git"
+  },
+  "author": "Carlos Delfino <consultoria@carlosdelfino.eti.br> (http://carlosdelfino.eti.br)",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/StreetPet/contrato-de-uso/issues"
+  },
+  "homepage": "https://github.com/StreetPet/contrato-de-uso#readme"
+}
